@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFUI", "WPFUI.csproj", "{59233403-7DE4-4D91-92BC-17B217FFE19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{60DF10B0-69AD-4BF1-9738-12339E04703F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEngine", "TestEngine\TestEngine.csproj", "{DDC57297-0F61-4EEB-AB89-C359F0111EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59233403-7DE4-4D91-92BC-17B217FFE19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59233403-7DE4-4D91-92BC-17B217FFE19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59233403-7DE4-4D91-92BC-17B217FFE19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59233403-7DE4-4D91-92BC-17B217FFE19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DF10B0-69AD-4BF1-9738-12339E04703F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DF10B0-69AD-4BF1-9738-12339E04703F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DF10B0-69AD-4BF1-9738-12339E04703F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DF10B0-69AD-4BF1-9738-12339E04703F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC57297-0F61-4EEB-AB89-C359F0111EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC57297-0F61-4EEB-AB89-C359F0111EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC57297-0F61-4EEB-AB89-C359F0111EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC57297-0F61-4EEB-AB89-C359F0111EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F2F813-E504-4974-99B3-5AC5DACA2468}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
